@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Ejercicio2_Corto1.dir/main.c.o  -o Ejercicio2_Corto1 

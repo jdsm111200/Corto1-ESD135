@@ -1,0 +1,3 @@
+/home/sandoval/CLionProjects/Ejercicio1_Corto1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sandoval/CLionProjects/Ejercicio1_Corto1/cmake-build-debug/CMakeFiles/Ejercicio1_Corto1.dir
+/home/sandoval/CLionProjects/Ejercicio1_Corto1/cmake-build-debug/CMakeFiles/edit_cache.dir
